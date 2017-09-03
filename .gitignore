@@ -1,5 +1,6 @@
 project
 target
+doc
 target/*
 /*/project
 *.iml
